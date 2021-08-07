@@ -4,10 +4,10 @@
 - 🌱 Estou aprendendo HTML, CSS e Javascript / I'm learning HTML, CSS and Javascript
 - 📫 Entre em contato através do Linkedin! / Contact-me on Linkedin!
 
- <div style="display :inline_block">
+ <div style="display: inline-block">
   <a href="https://github.com/dezoliveira">
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api?username=dezoliveira&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="170rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezoliveira&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dezoliveira&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezoliveira&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
 <div style="display: inline_block">
