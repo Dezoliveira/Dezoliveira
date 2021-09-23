@@ -1,6 +1,6 @@
 ## Olá, eu sou Andrés / Hi, I'Am Andrés 👋
 
-- 🔭 Sou um Desenvolvedor Web em andamento / I'm a Web Developer in progress
+- 🔭 Sou um Desenvolvedor Front-End em andamento / I'm a Web Developer in progress
 - 🌱 Estou aprendendo HTML, CSS e Javascript / I'm learning HTML, CSS and Javascript
 - 📫 Entre em contato através do Linkedin! / Contact-me on Linkedin!
 
