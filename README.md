@@ -1,7 +1,8 @@
 ## Olá, eu sou Andrés / Hi, I'Am Andrés 👋
 
-- 🔭 Sou um Desenvolvedor Front-End em andamento / I'm a Front-End Developer in progress
-- 🌱 Estou aprendendo HTML, CSS e Javascript / I'm learning HTML, CSS and Javascript
+- 🔭 Sou um Desenvolvedor Front-End / I'm a Front-End Developer
+- 🌱 Domino HTML, CSS e Javascript / Mastering HTML, CSS and Javascript
+- 🌱 React e Vue são meus frameworks / React and Vue are my frameworks
 - 📫 Entre em contato através do Linkedin! / Contact-me on Linkedin!
 
  <div style="display: inline-block">
