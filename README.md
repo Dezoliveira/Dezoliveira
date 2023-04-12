@@ -5,7 +5,7 @@
 - 🌱 React e Vue são meus frameworks / React and Vue are my frameworks
 - 📫 Entre em contato através do Linkedin! / Contact-me on Linkedin!
 
-⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️
 Todos ou meus repositórios de curso e projetos de curso são privados!
 Todos os meus projetos pessoais são públicos!
 
