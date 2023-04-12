@@ -1,4 +1,4 @@
-## Olá, eu sou Andrés / Hi, I'Am Andrés 👋
+## Olá, eu sou Andres👋
 
 - 🔭 Sou um Desenvolvedor Front-End
 - 🌱 Domino HTML, CSS e Javascript
