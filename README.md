@@ -8,7 +8,7 @@
 ## ⚠️ Atenção ⚠️
 - Todos ou meus repositórios de curso e projetos de curso são privados!
 - Todos os meus projetos pessoais são públicos!
-- Portanto, se você está cansado dos clones de netflix, pokedex de youtuber</br>Sites do The Last Of Us, você está no local certo!
+- Portanto, se você está cansado dos clones de netflix, pokedex de youtuber,</br>sites do The Last Of Us, você está no local certo!
 - Aqui você verá projetos que eu mesmo desenvolvi!
 
 ### O mundo já está cheio de cópias. Vamos criar algo novo ?
