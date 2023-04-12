@@ -1,8 +1,8 @@
 ## Olá, eu sou Andres👋
 
 - 🔭 Sou um Desenvolvedor Front-End
-- 🌱 Domino HTML, CSS e Javascript
-- 🌱 React e Vue são meus frameworks
+- 🥷🏼 Domino HTML, CSS e Javascript
+- 𐐘💥╾━╤デ╦︻ඞා React e Vue são meus frameworks
 - 📫 Entre em contato através do Linkedin!
 
 ## ⚠️ Atenção ⚠️
