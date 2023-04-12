@@ -5,6 +5,17 @@
 - 🌱 React e Vue são meus frameworks / React and Vue are my frameworks
 - 📫 Entre em contato através do Linkedin! / Contact-me on Linkedin!
 
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+Todos ou meus repositórios de curso e projetos de curso são privados!
+Todos os meus projetos pessoais são públicos!
+
+Portanto, se você está cansado dos clones de netflix, 
+pokedex do cara do youtube, sites do The Last Of Us
+
+Aqui você verá projetos que eu mesmo desenvolvi!
+
+O mundo já está cheio de cópias. Vamos criar algo novo ?
+
  <div style="display: inline-block">
   <a href="https://github.com/dezoliveira">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dezoliveira&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
