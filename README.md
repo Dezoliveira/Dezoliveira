@@ -2,8 +2,8 @@
 
 - 🔭 Sou um Desenvolvedor Front-End
 - 🥷🏼 Domino HTML, CSS e Javascript
-- 𐐘💥╾━╤デ╦︻ඞා React e Vue são meus frameworks
-- 📫 Entre em contato através do Linkedin!
+- ⭐ React e Vue são meus frameworks
+- 👉 Entre em contato através do Linkedin!
 
 ## ⚠️ Atenção ⚠️
 - Todos ou meus repositórios de curso e projetos de curso são privados!
