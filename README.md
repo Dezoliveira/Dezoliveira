@@ -3,7 +3,7 @@
 - 🔭 Sou um Desenvolvedor Front-End
 - 🥷🏼 Domino HTML, CSS e Javascript
 - ⭐ React e Vue são meus frameworks
-- 👉 Entre em contato através do Linkedin! <a href="https://linkedin.com/in/andrés-oliveira-838190177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- 👉 Entre em contato através do Linkedin! 
 
 ## ⚠️ Atenção ⚠️
 - Todos ou meus repositórios de curso e projetos de curso são privados!
