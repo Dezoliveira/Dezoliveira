@@ -3,16 +3,10 @@
 - 🔭 Sou um Desenvolvedor Front-End
 - 🥷🏼 Domino HTML, CSS e Javascript
 - ⭐ React e Vue são meus frameworks
+- Estou iniciando com Node.
 - 👉 Entre em contato através do Linkedin! 
-
-## ⚠️ Atenção ⚠️
-- Todos ou meus repositórios de curso e projetos de curso são privados!
-- Todos os meus projetos pessoais são públicos!
-- Portanto, se você está cansado dos clones de netflix, pokedex de youtuber,</br>sites do The Last Of Us, você está no local certo!
-- Aqui você verá projetos que eu mesmo desenvolvi para facilitar a minha vida</br> no dia a dia ou para estudo.</br> 
-### Divirta-se!
-
-### O mundo já está cheio de cópias. Vamos criar algo novo ?
+ 
+### Divirta-se! (e se encontrar um bug abre um chamado) 
 
  <div style="display: inline-block">
   <a href="https://github.com/dezoliveira">
