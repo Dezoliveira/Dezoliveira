@@ -3,7 +3,7 @@
 - 🔭 Sou um Desenvolvedor Front-End
 - 🥷🏼 Domino HTML, CSS e Javascript
 - ⭐ React e Vue são meus frameworks
-- Estou iniciando com Node.
+- 💚 Estou iniciando com Node.
 - 👉 Entre em contato através do Linkedin! 
  
 ### Divirta-se! (e se encontrar um bug abre um chamado) 
