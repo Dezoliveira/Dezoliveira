@@ -1,12 +1,6 @@
-## Olá, eu sou Andres👋
-
-- 🔭 Sou um Desenvolvedor Front-End
-- 🥷🏼 Domino HTML, CSS e Javascript
-- ⭐ React e Vue são meus frameworks
-- 💚 Estou iniciando com Node.
-- 👉 Entre em contato através do Linkedin! 
- 
-### Divirta-se! (e se encontrar um bug abre um chamado) 
+🔭 Desenvolvedor Front End com 2 anos de experiência.
+🥷🏼 Linguagem principal: Javascript.
+⭐ Frameworks: React e Vue.
 
  <div style="display: inline-block">
   <a href="https://github.com/dezoliveira">
