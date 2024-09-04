@@ -1,6 +1,6 @@
 - 🤘 Desenvolvedor Front-End com 2 Anos de Experiência.
 - 🍕 Linguagem principal: Javascript.
-- 😎 Frameworks e Libraries: ReactJS VueJS NextJS e Svelte.
+- 😎 Frameworks e Libraries: Vue.js, React.js, Next e Svelte.
 
  <div style="display: inline-block">
   <a href="https://github.com/dezoliveira">
