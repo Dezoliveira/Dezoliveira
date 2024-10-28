@@ -1,4 +1,4 @@
-- 🤘 Desenvolvedor Front-End com 2 Anos de Experiência.
+- 🤘 Desenvolvedor Web/Front-End com 2 Anos de Experiência.
 - 🍕 Front End: Javascript, Vue, React, Bootstrap.
 - 😎 Backend: Python, Django, SQL. 
 
