@@ -1,6 +1,6 @@
 - 🤘 Desenvolvedor Front-End com 2 Anos de Experiência.
-- 🍕 Linguagem principal: Javascript.
-- 😎 Frameworks: Vue.js e React.js.
+- 🍕 Front End: Javascript, Vue, React, Bootstrap.
+- 😎 Backend: Python, Django, SQL. 
 
  <div style="display: inline-block">
   <a href="https://github.com/dezoliveira">
@@ -14,8 +14,8 @@
   <img align="center" alt="Javascript" height="32" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vue" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="React" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Next" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Svelte" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+  <img align="center" alt="Python" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="SQL" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />       
   <img align="center" alt="Bootstrap" height="32" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="Git" height="64" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
 </div>
